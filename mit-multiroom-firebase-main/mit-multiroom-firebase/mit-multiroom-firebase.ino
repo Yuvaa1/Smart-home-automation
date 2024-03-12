@@ -17,11 +17,11 @@
 #include <addons/RTDBHelper.h>
 //-----------------------------------------------------------------------
 /* 1. Define the WiFi credentials */
-#define WIFI_SSID "Yuva"
-#define WIFI_PASSWORD "its me hi"
+#define WIFI_SSID "ssid"
+#define WIFI_PASSWORD "password"
 //-----------------------------------------------------------------------
 /* 2. Define the API Key */
-#define API_KEY "AIzaSyAwRqduc_c6tBZq8p5C-FInE3w12Oaq-4U"
+#define API_KEY "your api key"
 //-----------------------------------------------------------------------
 /* 3. Define the RTDB URL */
 #define DATABASE_URL "https://homeautomation-482f2-default-rtdb.firebaseio.com/"
